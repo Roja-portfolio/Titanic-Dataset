@@ -23,5 +23,10 @@ File Used: `Titanic-Dataset.csv`
 6. Split the dataset into train and test sets.
 7. Train a Logistic Regression model and evaluate it using accuracy, classification report, and confusion matrix.
 
+##Model Performance (Logistic Regression)##
+Accuracy: ~81%
+F1-score for class 1 (Survived): ~0.76
+Model evaluated using train/test split and confusion matrix
+
 ##Contact##
 Feel free to reach out via [rpkroja@gmail.com] for any queries.
